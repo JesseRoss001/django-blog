@@ -1,3 +1,3 @@
-![](https://drive.google.com/uc?export=view&id=1q9TIygok1aQA4CrHYQRQmw303c1ouwHO)
+![](Screenshot 2024-01-05 122616.png)
 
 # django-blog
